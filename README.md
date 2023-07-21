@@ -14,3 +14,9 @@ Admin Dashboard: Administrators have access to a dashboard where they can view a
 
 Responsive Design: The app is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
+Technology Stack
+Front-end: HTML, CSS, JavaScript, React.js
+Back-end: Node.js, Express.js
+Database: MongoDB
+
+
